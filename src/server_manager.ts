@@ -44,7 +44,8 @@ export const StartServer = async () => {
       title: "Security Code Samples API",
       host: hostname(),
       platform: platform(),
-      type: type()
+      type: type(),
+      "familyName": "PUCELJ"
     });
   })
 
